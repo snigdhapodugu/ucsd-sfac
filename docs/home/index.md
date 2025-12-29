@@ -8,7 +8,7 @@ hide:
 
 Core fees are paid by all relevant student groups as a requirement for attendance at the University. They also fund “core” university functions (such as lecturer salary, janitorial services, classroom space, wifi, etc.) which are necessary to the academic experience.
 
-Note that these charts depict fees **per semester** for the academic year 2025-26.
+Note that these charts depict fees **per quarter** for the academic year 2025-26. Additional fees that are not included in these charts can be found in the [Additional Fees](additional-fees.md) section.
 
 ## 2025-26 Undergraduate Student Cost of Attendance
 
@@ -93,4 +93,4 @@ Note that these charts depict fees **per semester** for the academic year 2025-2
     }
     ```
 
-Source: [UC Berkeley Office of the Registrar - Fee Schedule](https://registrar.berkeley.edu/tuition-fees/fee-schedule/)
+Source: [UC San Diego Financial Aid & Scholarships Office - Cost of Attendance](https://fas.ucsd.edu/cost-of-attendance/index.html)

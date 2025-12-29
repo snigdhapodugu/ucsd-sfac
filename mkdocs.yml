@@ -2,7 +2,7 @@ site_name: ""
 site_url: "https://berkeleyfee.org"
 theme:
   name: material 
-  logo: assets/csf-logo.png
+  logo: assets/sfac-logo.png
   favicon: assets/favicon.svg
   font:
     text: 'Open Sans'

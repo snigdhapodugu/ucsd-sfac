@@ -14,6 +14,22 @@ img[src*="csf-logo.png"] {
   box-shadow: none;
 }
 
+img[src*="sfac-logo.png"] {
+  box-shadow: none;
+  border: none;
+  outline: none;
+}
+
+/* Remove shadow and border from header logo */
+.md-header__button.md-logo img,
+.md-header__button.md-logo svg {
+  box-shadow: none !important;
+  border: none !important;
+  outline: none !important;
+  height: 1.5rem !important;
+  width: auto !important;
+}
+
 #card-lower-sproul .md-card {
   background:#1f77b4;
   color:#fff;

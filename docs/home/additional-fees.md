@@ -2,24 +2,28 @@
 title: Additional Fees
 ---
 
-These are additional fees which are not compulsory for all students every semester.
+These are additional fees which are not compulsory for all students every quarter.
 
-## Document Management Fee
+## Document Fee
 
-All students pay a one-time Document Management Fee during the first semester that they enroll in UC Berkeley. This fee "provides unlimited official transcripts sent through first-class mail or provided over the counter in person at Cal Student Central" ([UCB Summer Sessions](https://summer.berkeley.edu/application/fees)).
+All students pay a one-time Document Fee during the first quarter that they enroll in UC San Diego. This fee "covers lifelong access to identified documents and services" ([UC San Diego Office of the Registrar](https://students.ucsd.edu/_files/registrar/one-time-document-fee.pdf)). Document Fee-Covered Services include official transcripts, official transcripts with the Co-Curricular record attached, enrollment verifications, and first replacement diploma.
 
-## Health Insurance Fee
+## Health Fee
 
 Students may waive SHIP insurance before the deadline each year.
 
 ## UCSA Systemwide Fee
 
-Source: [Office of the Registrar: UCSA Systemwide Fee](https://registrar.berkeley.edu/tuition-fees/fee-definitions/ucsa-systemwide-fee/)
+Source: [Office of the Registrar: UCSA Systemwide Fee](https://students.ucsd.edu/finances/fees/registration/2025-26/index.html)
 
-## UC Graduate and Professional Council (UCGPC) Fee
+## International Student Visa Administration Fee
 
-Source: [Office of the Registrar: UCGPC Fee](https://registrar.berkeley.edu/tuition-fees/fee-definitions/uc-graduate-and-professional-council-ucgpc-fee/)
+Source: [Office of the Registrar: International Student Visa Administration Fee](https://students.ucsd.edu/finances/fees/registration/2025-26/index.html)
+
+## Undergraduate College Activity Fee
+
+Source: [Office of the Registrar: Undergraduate College Activity Fee](https://students.ucsd.edu/finances/fees/registration/2025-26/index.html)
 
 ## Course Materials Fees
 
-Source: [Office of Ethics, Risk, and Compliance Services: Course Materials Fee Policy](https://oercs.berkeley.edu/policies/campus-policy-library/course-materials-fees-policy)
+Source: [Office of the Registrar: Cost of Attendance](https://students.ucsd.edu/finances/fees/registration/2025-26/index.html)

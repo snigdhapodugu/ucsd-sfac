@@ -101,13 +101,10 @@
     {
       "name": "table",
       "values": [
-        {"id": "Tuition: $6,570.00", "value": 6570},
-        {"id": "Nonresident Supplemental Tuition: $7,751.00", "value": 7751},
-        {"id": "Student Services Fee: $666.00", "value": 645},
-        {"id": "Berkeley Campus Fee: $871.75", "value": 871.75},
-        {"id": "Transit Fee: $229.00", "value": 229},
-        {"id": "Instructional Resilience & Enhancement Fee: $141.00", "value": 141},
-        {"id": "Document Management Fee: $241.00", "value": 241}
+        {"id": "UC Systemwide Tuition: $4,380.00", "value": 4380},
+        {"id": "Nonresident Supplemental Tuition: $5,034.00", "value": 5034},
+        {"id": "UC Systemwide Student Services Fee: $430.00", "value": 430},
+        {"id": "UC San Diego Campus Fees: $375.00", "value": 375}
       ],
       "transform": [
         {
