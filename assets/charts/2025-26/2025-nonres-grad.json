@@ -102,7 +102,7 @@
       "name": "table",
       "values": [
         {"id": "UC Systemwide Tuition: $4,380.00", "value": 4380},
-        {"id": "Nonresident Supplemental Tuition: $5,034.00", "value": 5034},
+        {"id": "Non-California Resident Supplemental Tuition: $5,034.00", "value": 5034},
         {"id": "UC Systemwide Student Services Fee: $430.00", "value": 430},
         {"id": "UC San Diego Campus Fees: $375.00", "value": 375}
       ],
